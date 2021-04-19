@@ -11,15 +11,14 @@ public class Arbol <T>{
 
     public static void main(String[] args) {
         Arbol<String> arbolInicial = new Arbol<>("A");
-        Arbol<String> arbolHijoIzquierdoB =
-                new Arbol<>("B");
 
-        arbolInicial.hijoIzquierdo = arbolHijoIzquierdoB;
+//        Otra forma de definir el árbol.
+//        Arbol<String> arbolHijoIzquierdoB =
+//                new Arbol<>("B");
+//
+//        arbolInicial.hijoIzquierdo = arbolHijoIzquierdoB;
 
-
-        Arbol<String> arbolHermanoDerechoC =
-                new Arbol<>("C");
-
-        arbolHijoIzquierdoB.hermanoDerecho = arbolHermanoDerechoC;
+        arbolInicial.hijoIzquierdo = new Arbol<>("B");
+        arbolInicial.hijoIzquierdo.hermanoDerecho = new Arbol<>("C");;
     }
 }

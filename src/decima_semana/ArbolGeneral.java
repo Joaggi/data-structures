@@ -137,8 +137,8 @@ public class ArbolGeneral<T>{
 //        arbolGeneralB.hijos = hijosDeB;
 
 
-//        arbolInicial.preorden(arbolInicial);
-        arbolInicial.postOrden(arbolInicial);
+        arbolInicial.preorden(arbolInicial);
+//        arbolInicial.postOrden(arbolInicial);
     }
 
     public void preorden(ArbolGeneral<T> arbolGeneral){
