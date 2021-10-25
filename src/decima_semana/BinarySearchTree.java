@@ -1,9 +1,81 @@
 package decima_semana;
 
 import java.nio.BufferUnderflowException;
+import java.sql.SQLOutput;
+import java.util.ArrayList;
 
 public class BinarySearchTree<T extends Comparable<? super T>>
 {
+
+    public void preOrder(BinaryNode<T> binaryNode){
+        if(binaryNode != null){
+            System.out.print(binaryNode.element + " -> ");
+            preOrder(binaryNode.left);
+            preOrder(binaryNode.right);
+        }
+    }
+
+    public void postOrder(BinaryNode<T> binaryNode){
+        if(binaryNode != null){
+            postOrder(binaryNode.left);
+            postOrder(binaryNode.right);
+            System.out.print(binaryNode.element + " -> ");
+        }
+    }
+
+    public void inorder(BinaryNode<T> binaryNode){
+        if(binaryNode != null){
+            inorder(binaryNode.left);
+            System.out.print(binaryNode.element + " -> ");
+            inorder(binaryNode.right);
+        }
+    }
+
+    public void levelOrder(BinaryNode<T> binaryNode){
+        ArrayList<BinaryNode<T>> arrayList = new ArrayList<>();
+        arrayList.add(binaryNode);
+        while(arrayList.size() > 0){
+            BinaryNode<T> datoEnCola = arrayList.get(0);
+            arrayList.remove(0);
+            System.out.print(datoEnCola.element + " -> ");
+            if(datoEnCola.left != null)
+                arrayList.add(datoEnCola.left);
+            if(datoEnCola.right != null)
+                arrayList.add(datoEnCola.right);
+        }
+    }
+
+    public static void main(String[] args) {
+        BinarySearchTree<Integer> binarySearchTree = new BinarySearchTree<>();
+        System.out.println(binarySearchTree.isEmpty());
+        binarySearchTree.insert(10);
+        System.out.println(binarySearchTree.root.element);
+        binarySearchTree.preOrder(binarySearchTree.root);
+        System.out.println();
+
+        binarySearchTree.insert(8);
+        binarySearchTree.insert(15);
+        binarySearchTree.insert(3);
+        binarySearchTree.insert(9);
+        binarySearchTree.insert(12);
+
+
+        binarySearchTree.preOrder(binarySearchTree.root);
+        System.out.println();
+
+        System.out.println("El dato 12 se encuentra dentro del árbol: " + binarySearchTree.contains(12));
+        System.out.println("El dato 20 se encuentra dentro del árbol: " + binarySearchTree.contains(20));
+
+        System.out.println("El dato menor del árbol es: " + binarySearchTree.findMin());
+
+        binarySearchTree.levelOrder(binarySearchTree.root);
+        System.out.println();
+
+        System.out.println(binarySearchTree.height(binarySearchTree.root));
+
+
+    }
+
     private static class BinaryNode<T>
     {
         T element;
@@ -18,6 +90,8 @@ public class BinarySearchTree<T extends Comparable<? super T>>
             this.right = right;
         }
     }
+
+
 
     private BinaryNode<T> root;
 
@@ -44,10 +118,8 @@ public class BinarySearchTree<T extends Comparable<? super T>>
         int compareResult = x.compareTo( t.element );
         if( compareResult < 0 )
             t.left = insert( x, t.left );
-        else if( compareResult > 0 )
+        if( compareResult > 0 )
             t.right = insert( x, t.right );
-        else
-            ; // Duplicate; do nothing
         return t;
     }
 

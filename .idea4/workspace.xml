@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a03f44e8-e36d-4c29-961f-480798d35456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/animales/TiposDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/padre_e_hijo/Hijo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/padre_e_hijo/Padre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercera_semana/Arreglos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/catorce_semana/EjemploMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/EjemploApuntador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/EjemploList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/Insertar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ListSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/NuevaLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/RemoveEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ejemplo_arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ejemplo_linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/Arbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/ArbolGeneral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinarySearchTree$BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/CondicionalTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/EjemploExtendsSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/JuegoCompuertas$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/JuegoCompuertas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/RespuestaComparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/RespuestasDeEncuesta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/hackerran15$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/hackerran15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/novena_semana/PruebaListaPila.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Humanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Mamifero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Viviparos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/figuras/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Ingredientes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/PizzaHawaina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/PizzaPepperoni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Restaurante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/restaurante/Restaurante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quince_semana/PalabraAscii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/EjemploGenerico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/ExampleDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/Pila.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/septima_semana/ArraylistVsLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/septima_semana/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/Clase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/EjemploMyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/ExplicacionClase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/trece_semana/CaseInsensitiveCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/trece_semana/EjemploSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerran15.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pGQXJVf7weLtNBoIswx00Z01xW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a03f44e8-e36d-4c29-961f-480798d35456" name="Default Changelist" comment="" />
+      <created>1614806984096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614806984096</updated>
+      <workItem from="1614806985323" duration="7000" />
+      <workItem from="1615239108450" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="495" width="568" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615239208688">
+      <screen x="0" y="27" width="2560" height="1009" />
+    </state>
+    <state x="991" y="495" width="568" height="402" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1920.1080/0.27.2560.1009@0.27.2560.1009" timestamp="1615239208688" />
+    <state x="769" y="306" key="SettingsEditor" timestamp="1615239236554">
+      <screen x="0" y="27" width="2560" height="1009" />
+    </state>
+    <state x="769" y="306" key="SettingsEditor/2560.0.1920.1080/0.27.2560.1009@0.27.2560.1009" timestamp="1615239236554" />
+    <state x="944" y="327" key="run.anything.popup" timestamp="1615239129341">
+      <screen x="0" y="27" width="2560" height="1009" />
+    </state>
+    <state x="944" y="327" key="run.anything.popup/2560.0.1920.1080/0.27.2560.1009@0.27.2560.1009" timestamp="1615239129341" />
+  </component>
+</project>

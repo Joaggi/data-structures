@@ -5,17 +5,23 @@ import java.util.Collection;
 
 public class Principal {
     public static void main(String[] args) {
-        LinkedList<Integer> nodoInicial = new LinkedList<>(3);
+        LinkedList<Integer> nodoInicial = new LinkedList<>( 3);
+
         LinkedList<Integer> nodoDos = new LinkedList<>(10);
+
         nodoInicial.nodoSiguiente = nodoDos;
-        LinkedList<Integer> nodoTres = new LinkedList<>(67);
-        nodoDos.nodoSiguiente = nodoTres;
-        LinkedList<Integer> nodoCuatro = new LinkedList<>(23);
-        nodoTres.nodoSiguiente = nodoCuatro;
 
-        imprimirLista(nodoInicial);
+        System.out.println(nodoInicial.dato);
+        System.out.println(nodoInicial.nodoSiguiente.dato);
 
-        System.out.println(nodoInicial.buscar(23));
+//        LinkedList<Integer> nodoTres = new LinkedList<>(67);
+//        nodoDos.nodoSiguiente = nodoTres;
+//        LinkedList<Integer> nodoCuatro = new LinkedList<>(23);
+//        nodoTres.nodoSiguiente = nodoCuatro;
+//
+//        imprimirLista(nodoInicial);
+//
+//        System.out.println(nodoInicial.buscar(23));
 
 //        nodoInicial.nodoSiguiente = null;
 //
@@ -26,17 +32,17 @@ public class Principal {
 //            System.out.println(nodoTransitorio.dato);
 //        }
 //
-        nodoDos.nodoSiguiente = nodoCuatro;
-
-        imprimirLista(nodoInicial);
-
-
-        LinkedList<Integer> nodoIntermedio = new LinkedList<>(99);
-        LinkedList<Integer> auxiliar = nodoDos.nodoSiguiente;
-        nodoDos.nodoSiguiente = nodoIntermedio;
-        nodoIntermedio.nodoSiguiente = auxiliar;
-
-        imprimirLista(nodoInicial);
+//        nodoDos.nodoSiguiente = nodoCuatro;
+//
+//        imprimirLista(nodoInicial);
+//
+//
+//        LinkedList<Integer> nodoIntermedio = new LinkedList<>(99);
+//        LinkedList<Integer> auxiliar = nodoDos.nodoSiguiente;
+//        nodoDos.nodoSiguiente = nodoIntermedio;
+//        nodoIntermedio.nodoSiguiente = auxiliar;
+//
+//        imprimirLista(nodoInicial);
 
         //java.util.LinkedList
     }

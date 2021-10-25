@@ -1,8 +1,8 @@
 package tercera_semana;
 
 public class LinkedList <T>{
-    LinkedList<T> nodoSiguiente;
-    T dato;
+    LinkedList<T> nodoSiguiente; // Apuntador de memoria al siguiente nodo
+    T dato; // Dato en sí.
 
     public LinkedList(T dato) {
         this.dato = dato;

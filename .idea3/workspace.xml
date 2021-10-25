@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79168b3b-7494-40c4-9b54-6fdab486ede9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/animales/TiposDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/padre_e_hijo/Hijo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primera_semana/padre_e_hijo/Padre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/catorce_semana/EjemploMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/EjemploApuntador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/EjemploList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/Insertar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ListSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/NuevaLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/RemoveEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ejemplo_arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/cuarta_semana/ejemplo_linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/Arbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/ArbolGeneral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinarySearchTree$BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/CondicionalTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/EjemploExtendsSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/JuegoCompuertas$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/JuegoCompuertas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/RespuestaComparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/decima_semana/RespuestasDeEncuesta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/hackerran15$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/hackerran15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/novena_semana/PruebaListaPila.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Humanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Mamifero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/Viviparos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/figuras/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Ingredientes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/PizzaHawaina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/PizzaPepperoni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/pizza/Restaurante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/primera_semana/animales/restaurante/Restaurante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quince_semana/PalabraAscii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/EjemploGenerico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/ExampleDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/quinta_semana/Pila.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/septima_semana/ArraylistVsLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/septima_semana/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/Clase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/EjemploMyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/ExplicacionClase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/sexta_semana/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/trece_semana/CaseInsensitiveCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-java/trece_semana/EjemploSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/EjemploApuntador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/EjemploApuntador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/EjemploList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/EjemploList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/Insertar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/Insertar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/ListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/ListSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/NuevaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/NuevaLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/RemoveEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/RemoveEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/ejemplo_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/ejemplo_arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuarta_semana/ejemplo_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuarta_semana/ejemplo_linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerran15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/Humanos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/Humanos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/Viviparos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/Viviparos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/figuras/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/figuras/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Ingredientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Ingredientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/pizza/PizzaHawaina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/pizza/PizzaHawaina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/pizza/PizzaPepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/pizza/PizzaPepperoni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/pizza/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primera_semana/animales/restaurante/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primera_semana/animales/restaurante/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quinta_semana/EjemploGenerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quinta_semana/EjemploGenerico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quinta_semana/ExampleDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quinta_semana/ExampleDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quinta_semana/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quinta_semana/Pila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sexta_semana/Clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sexta_semana/Clase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sexta_semana/EjemploMyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sexta_semana/EjemploMyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sexta_semana/ExplicacionClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sexta_semana/ExplicacionClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sexta_semana/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sexta_semana/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sexta_semana/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sexta_semana/Stack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pGPHn8erapvKKlkpkij8UI3JmD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79168b3b-7494-40c4-9b54-6fdab486ede9" name="Default Changelist" comment="" />
+      <created>1614806368618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614806368618</updated>
+      <workItem from="1614806370600" duration="306000" />
+      <workItem from="1614806691563" duration="110000" />
+      <workItem from="1614806818954" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614806663899">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1920.1080/0.27.2560.1053@0.27.2560.1053" timestamp="1614806663899" />
+    <state x="801" y="432" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1614806506807">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="801" y="432" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.0.1920.1080/0.27.2560.1053@0.27.2560.1053" timestamp="1614806506807" />
+    <state x="337" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1614806795447">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="337" y="175" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1614806795447" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/2560.0.1920.1080/0.27.2560.1053@0.27.2560.1053" timestamp="1614806442717" />
+    <state x="702" y="415" key="com.intellij.ide.util.TipDialog" timestamp="1614806818772">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="702" y="415" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1614806818772" />
+    <state x="936" y="547" key="com.intellij.ide.util.TipDialog/2560.0.1920.1080/0.27.2560.1413@0.27.2560.1413" timestamp="1614806370381" />
+    <state x="269" y="142" width="1372" height="803" key="new project wizard" timestamp="1614806897329">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="269" y="142" width="1372" height="803" key="new project wizard/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1614806897329" />
+  </component>
+</project>
